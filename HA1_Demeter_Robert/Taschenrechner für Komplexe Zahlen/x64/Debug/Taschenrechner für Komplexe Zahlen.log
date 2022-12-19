@@ -1,3 +1,0 @@
-﻿  funktionen.c
-C:\Users\Home\source\repos\Taschenrechner für Komplexe Zahlen\Taschenrechner für Komplexe Zahlen\funktionen.c(39,12): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
-  Taschenrechner für Komplexe Zahlen.vcxproj -> C:\Users\Home\source\repos\Taschenrechner für Komplexe Zahlen\x64\Debug\Taschenrechner für Komplexe Zahlen.exe
