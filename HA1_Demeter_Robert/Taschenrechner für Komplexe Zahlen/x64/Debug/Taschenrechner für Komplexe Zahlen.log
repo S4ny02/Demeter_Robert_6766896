@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\Home\source\repos\HA1_Demeter_Robert\Taschenrechner für Komplexe Zahlen\main.c(12,26): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "RoI *" und "RoI (*)[3]" unterschiedlich
+C:\Users\Home\source\repos\HA1_Demeter_Robert\Taschenrechner für Komplexe Zahlen\main.c(12,20): warning C4024: "formatieren": unterschiedliche Typen für formalen und übergebenen Parameter 2
+C:\Users\Home\source\repos\HA1_Demeter_Robert\Taschenrechner für Komplexe Zahlen\main.c(13,26): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "RoI *" und "RoI (*)[3]" unterschiedlich
+C:\Users\Home\source\repos\HA1_Demeter_Robert\Taschenrechner für Komplexe Zahlen\main.c(13,20): warning C4024: "formatieren": unterschiedliche Typen für formalen und übergebenen Parameter 2
+  funktionen.c
+C:\Users\Home\source\repos\HA1_Demeter_Robert\Taschenrechner für Komplexe Zahlen\funktionen.c(39,12): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Code wird generiert...
+  Taschenrechner für Komplexe Zahlen.vcxproj -> C:\Users\Home\source\repos\HA1_Demeter_Robert\x64\Debug\Taschenrechner für Komplexe Zahlen.exe
